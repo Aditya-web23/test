@@ -1,5 +1,4 @@
-#include<stdio.h>
-int main()
-{
-printf("hello world");
-}
+gdushha
+iauggd
+jjs
+najq
